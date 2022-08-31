@@ -1,0 +1,1 @@
+FROM sunhong87/webgoat_1_more_team:full_users
